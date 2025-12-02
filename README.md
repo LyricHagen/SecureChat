@@ -9,12 +9,12 @@ Messages are encrypted using AES-256 with a unique key and IV for each conversat
 Create a `.env` file with your Firebase keys and AES secrets.
 
 Start the backend:
-cd backend
-npm install
+cd backend &&
+npm install &&
 node index.js
 
 Start the app (Expo):
-npm install
+npm install &&
 npx expo start
 
 ## What it does
