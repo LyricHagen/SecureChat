@@ -30,3 +30,8 @@ npx expo start
 The `encryption.ts` file handles AES-256 encryption/decryption:
 - `SECRET_KEY` and `IV` are loaded from `.env`
 - Messages are encrypted before being sent to Firebase
+
+<br>
+
+© 2025 Lyric Hagen. All rights reserved. 
+This project was created by Lyric Hagen. Do not present or distribute as your own work.
